@@ -3,7 +3,7 @@ package practice;
 public class java6 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub				//배열 (많은 양의 데이터를 적은 코드로 처리하는것)
+		 //TODO Auto-generated method stub				//배열 (많은 양의 데이터를 적은 코드로 처리하는것)
 		
 //		int arrayInt[] = new int[10]; // arryInt[] 안에 0부터 9까지의 수를 담고있음
 //		for (int i = 0; i<arrayInt.length; i++) {
@@ -54,15 +54,20 @@ public class java6 {
 //=======================================================================================
 //		
 //		
-		int[] scores;
-		scores = new int[] { 83, 90, 87 };
-		int sum1 = 0;
-		for(int i=0; i<3; i++) {
-			sum1 += scores[i];
-			
-		}
-		System.out.println("총합: " +sum1);
-	}
-}
+//		int[] scores;
+//		scores = new int[] { 83, 90, 87 };
+//		int sum1 = 0;
+//		for(int i=0; i<3; i++) {
+//			sum1 += scores[i];
+//			
+//		}
+//		System.out.println("총합: " +sum1);
+//	}
+//}
+//
+//		
 
 		
+		
+	}
+}

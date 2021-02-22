@@ -24,3 +24,5 @@ public class review0222 {
 
 
 // 실행시 Run Configurations... > Arguments > (숫자입력) (Space bar) (숫자입력)
+
+		

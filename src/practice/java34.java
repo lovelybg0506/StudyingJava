@@ -21,6 +21,7 @@ public class java34 {
 			}
 			System.out.print("로또번호 : ");
 			for(i=0;i<lotto.length;i++) {
+			
 				System.out.printf(" %d",lotto[i]);
 				
 			}

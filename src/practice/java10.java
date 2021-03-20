@@ -4,18 +4,18 @@ public class java10 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//  ³»ÀÌ¸§ À¯´ÏÄÚµå
+		//  ï¿½ï¿½ï¿½Ì¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Úµï¿½
 
 		int a,b,c;
 		int d,e,f;
 		
 		
-		a='°­'; // 44053
-		b='º´'; // 48337
-		c='±Ô'; // 44508
-		System.out.println(a);
-		System.out.println(b);
-		System.out.println(c);
+//		a='ï¿½ï¿½'; // 44053
+//		b='ï¿½ï¿½'; // 48337
+//		c='ï¿½ï¿½'; // 44508
+//		System.out.println(a);
+//		System.out.println(b);
+//		System.out.println(c);
 		
 		
 //		d=44053;e=48337;f=44508;
@@ -23,17 +23,17 @@ public class java10 {
 //		System.out.printf("%c%c%c",d,e,f);
 //		
 		//=========================================================================
-//		¿¬½À ½ÇÆÐÀÛÀÔ´Ï´Ù char¸¦ ½á¼­±×·±Áö ¼ýÀÚ¸¦ ½áµµ Ãâ·ÂµÊ. ¾ø¾Ö°í½ÍÀºµ¥ ¾ÆÁ÷ ¸ð¸£°Ú¤·´Ù 
+//		ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½ charï¿½ï¿½ ï¿½á¼­ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½áµµ ï¿½ï¿½Âµï¿½. ï¿½ï¿½ï¿½Ö°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ð¸£°Ú¤ï¿½ï¿½ï¿½ 
 //		Scanner sc = new Scanner(System.in);
 //		char f;
-//		System.out.print("°ªÀ» ÀÔ·ÂÇÏ¼¼¿ä");
+//		System.out.print("ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½");
 //		f = sc.nextLine().charAt(0);
 //		
 //		if(f==(char)f) {
-//			System.out.printf("¹®ÀÚ '%c'ÀÇ À¯´ÏÄÚµå°ªÀº '%d' ÀÔ´Ï´Ù",f,(long)f);
+//			System.out.printf("ï¿½ï¿½ï¿½ï¿½ '%c'ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Úµå°ªï¿½ï¿½ '%d' ï¿½Ô´Ï´ï¿½",f,(long)f);
 //		}
 //		else {
-//			System.out.printf("¹®ÀÚ°¡ ¾Æ´Õ´Ï´Ù.");
+//			System.out.printf("ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Æ´Õ´Ï´ï¿½.");
 //		}
 		
 		

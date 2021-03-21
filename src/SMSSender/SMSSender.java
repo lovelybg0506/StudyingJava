@@ -6,7 +6,7 @@ public class SMSSender extends MessageSender {	//하위클래스
 	String message;
 
 // 생성자 스트링 타이틀,센더네임,리턴폰넘버,메시지(타이틀,센더네임은 상속)
-	SMSSender(String title, String senderName, String returnPohneNo, String message){
+	SMSSender(String title, String senderName, String returnPhoneNo, String message){
 	super(title,senderName);
 	this.returnPhoneNo=returnPhoneNo;
 	this.message=message;

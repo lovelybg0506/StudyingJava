@@ -5,18 +5,18 @@ import java.util.Scanner;
 public class java11 {
 
 	public static void main(String[] args) {
-		//½ºÄ³³ÊÀÔ·Â
+		//ï¿½ï¿½Ä³ï¿½ï¿½ï¿½Ô·ï¿½
 		
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("¹®ÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä ");
+		System.out.print("ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½ ");
 		char moon = sc.nextLine().charAt(0);
-		long imoon = (long)moon;
+		long imoon = moon;
 		
 		System.out.println(imoon);
 
-//		System.out.print("¼ýÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä ");
+//		System.out.print("ï¿½ï¿½ï¿½Ú¸ï¿½ ï¿½Ô·ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½ ");
 //		int moon = sc.nextInt();
 //		char imoon = (char)moon;
 //		

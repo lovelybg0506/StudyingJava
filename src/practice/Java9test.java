@@ -1,16 +1,14 @@
 package practice;
 
-import practice.Java9;
 
-
-public class Java9test extends Java9 { 			// protected String ¿ª Ω««‡Ω√≈∞±‚ ¿ß«— extends << (Java9test∏¶ Java9ø° ªÛº”Ω√≈≤¥Ÿ)
+public class Java9test extends Java9 { 			// protected String ÔøΩÔøΩ ÔøΩÔøΩÔøΩÔøΩÔøΩ≈∞ÔøΩÔøΩ ÔøΩÔøΩÔøΩÔøΩ extends << (Java9testÔøΩÔøΩ Java9ÔøΩÔøΩ ÔøΩÔøΩ”ΩÔøΩ≈≤ÔøΩÔøΩ)
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		Java9 t = new Java9();	
-		System.out.println(t.b);	// «¡∏∞∆ÆπÆ æ»ø° test.(Java9.java∆ƒ¿œø° ¿÷¥¬ a or b)
-		System.out.println(t.a); // public¿Ã æ∆¥œ∏È ∞∞¿∫ ∆–≈∞¡ˆø©æﬂ«‘
-//		System.out.println(t.c); // private String¿Ã∂Û ≤¯∞Ìø√ºˆ æ¯¿Ω.
+		System.out.println(t.b);	// ÔøΩÔøΩÔøΩÔøΩ∆ÆÔøΩÔøΩ ÔøΩ»øÔøΩ test.(Java9.javaÔøΩÔøΩÔøΩœøÔøΩ ÔøΩ÷¥ÔøΩ a or b)
+		System.out.println(t.a); // publicÔøΩÔøΩ ÔøΩ∆¥œ∏ÔøΩ ÔøΩÔøΩÔøΩÔøΩ ÔøΩÔøΩ≈∞ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ
+//		System.out.println(t.c); // private StringÔøΩÃ∂ÔøΩ ÔøΩÔøΩÔøΩÔøΩ√ºÔøΩ ÔøΩÔøΩÔøΩÔøΩ.
 		System.out.println(t.d); // protected String 
 		
 	}

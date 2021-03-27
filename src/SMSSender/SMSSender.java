@@ -12,6 +12,7 @@ public class SMSSender extends MessageSender {	//하위클래스
 	this.message=message;
 	}
 // 메소드 스트링 recipient// 출력 제목,보내는사람,전화번호,회신전화번호,메시지내용
+	@Override
 	void sendMessage(String recipient) {
 		System.out.println("===========================");
 		System.out.println("제목 : " + title);

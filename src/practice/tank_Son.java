@@ -7,6 +7,7 @@ public class tank_Son extends tank_P {
 	
 	public int tankmode = NORMAL_MODE;
 	
+	@Override
 	public void mode() {
 		if(tankmode == SIZ_MODE) {
 			System.out.println("탱크를 시즈모드로 변경합니다.");

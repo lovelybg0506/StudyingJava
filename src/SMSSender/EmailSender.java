@@ -14,6 +14,7 @@ public class EmailSender extends MessageSender{	//하위클래스
 	
 	
 //메소드(스트링 recipient) 출력 제목,보내는사람,받는사람,내용
+	@Override
 	void sendMessage(String recipient){
 		System.out.println("=============================");
 		System.out.println("제목 : " + title);
